@@ -16,18 +16,21 @@ Categoriza cada actividad en 5 zonas según su valor y cómo te impacta:
 
 ## Cómo usarla
 
-### Opción 1: Online (recomendado)
-Abre el archivo directamente:
+### 🚀 Abre aquí:
 ```
-https://raw.githubusercontent.com/mariaca27-lang/Tempo-/main/index.html
+https://cdn.jsdelivr.net/gh/mariaca27-lang/Tempo-@main/index.html
 ```
 
-O descarga y abre `index.html` en cualquier navegador.
+**Listo.** Funciona en:
+- Navegador web (desktop y móvil)
+- No requiere instalación
+- Funciona offline
+- Los datos se guardan solo en tu dispositivo
 
-### Opción 2: En tu teléfono
-1. Descarga el archivo `index.html`
-2. Abre en tu navegador móvil
-3. Guarda en la pantalla de inicio
+### Para teléfono (agregar a pantalla de inicio):
+1. Abre el link en Safari/Chrome
+2. Toca el botón compartir → "Añadir a pantalla de inicio"
+3. Aparecerá como app
 
 ## Características
 
@@ -44,17 +47,24 @@ O descarga y abre `index.html` en cualquier navegador.
 - Identificar qué actividades te drenan
 - Decidir dónde enfocarte más
 
-### En pareja:
+### En grupo (pareja, familia, equipo):
 - Comparar mapas y patrones
-- Entender de dónde sale la energía de tu pareja
+- Entender de dónde sale la energía de cada persona
 - Tomar decisiones juntos sobre delegación y prioridades
 
-## Cómo compartirlo con tu pareja
+## Cómo usarla en grupo
 
-1. **Ambos abren el archivo** (cada uno en su dispositivo)
+1. **Todos abren el link** (cada persona en su dispositivo)
 2. **Registran sus actividades** durante 1-2 semanas
 3. **Comparten pantallazos** de sus mapas
 4. **Conversan sobre patrones** - ¿Dónde se va la energía? ¿Qué delegar? ¿Qué potenciar?
+
+## Notas importantes
+
+- Los datos se guardan localmente en tu navegador
+- Borrar datos del navegador borra tu historial
+- Para hacer backup: captura pantallazos o copia manualmente los datos
+- Cada dispositivo = datos independientes
 
 ## Tecnología
 
@@ -62,12 +72,6 @@ O descarga y abre `index.html` en cualquier navegador.
 - Babel (para JSX)
 - LocalStorage (para persistencia local)
 - Sin dependencias complejas - funciona offline
-
-## Notas
-
-- Los datos se guardan localmente en tu navegador
-- Borrar datos del navegador borra tu historial
-- Para hacer backup: copia los datos via DevTools → Application → LocalStorage
 
 ---
 
